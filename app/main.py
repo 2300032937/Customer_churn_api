@@ -1,5 +1,5 @@
-#student_name : Shalini gupta
-#student_id : iitp_aiml_2506898
+#student_name : Hasini Guguloth
+#student_id : iitp_aiml_2506435
 
 from fastapi import FastAPI
 from pydantic import BaseModel
